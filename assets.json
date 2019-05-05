@@ -83,7 +83,13 @@
 		{ "action": "deleteDir", "target": "base/characters/legacy_L" },
 		{ "action": "deleteDir", "target": "base/characters/legacy_Nuclear Apollo" },
 		{ "action": "deleteDir", "target": "base/characters/legacy_Paper Barok" },
-		{ "action": "deleteDir", "target": "base/characters/legacy_QualityQuill" }
+		{ "action": "delete", "target": "base/characters/legacy_QualityQuill" }
+		{ "action": "delete", "target": "base\sounds\music\[Misc] Brother.mp3" }
+		{ "action": "delete", "target": "base\sounds\music\[Misc] Lestrade.mp3" }
+		{ "action": "delete", "target": "base\sounds\music\[Misc] Clover.mp3" }
+		{ "action": "delete", "target": "base\sounds\music\[Misc] Raebelle.opus" } 
+		{ "action": "deleteDir", "target": "base\characters\Ryu Leg" }
+		{ "action": "deleteDir", "target": "base\characters\Ryuunosuke" }
 	  ]
 	},
 	{
